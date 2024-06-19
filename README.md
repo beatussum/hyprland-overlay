@@ -14,6 +14,6 @@ With [eselect-repository](https://wiki.gentoo.org/wiki/Eselect/Repository), just
 
 ```bash
 eselect repository list
-eselect repository enable beatussum-overlay
-emaint sync --repo beatussum-overlay
+eselect repository enable hyprland-overlay
+emaint sync --repo hyprland-overlay
 ```
