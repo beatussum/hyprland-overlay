@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<longdescription>
+		A description.
+	</longdescription>
+	<longdescription lang="fr">
+		Une description.
+	</longdescription>
+	<slots>
+		<slot name="1.0">A description</slot>
+		<subslots>A description</subslots>
+	</slots>
+	<slots lang="fr">
+		<slot name="1.0">Une description</slot>
+		<subslots>Une description</subslots>
+	</slots>
+	<use>
+		<flag name="foo">A description</flag>
+	</use>
+	<use lang="fr">
+		<flag name="foo">Une description</flag>
+	</use>
+	<upstream>
+		<maintainer status="active">
+			<name>Foo Bar</name>
+			<email>foo@bar.org</email>
+		</maintainer>
+		<changelog>URL</changelog>
+		<doc>URL</doc>
+		<bugs-to>URL</bugs-to>
+		<remote-id type="github">foo/bar</remote-id>
+	</upstream>
+</pkgmetadata>
