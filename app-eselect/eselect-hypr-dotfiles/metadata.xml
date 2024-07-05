@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<upstream>
+		<maintainer status="active">
+			<name>Mattéo Rossillol‑‑Laruelle</name>
+			<email>beatussum@protonmail.com</email>
+		</maintainer>
+		<changelog>https://raw.githubusercontent.com/beatussum/eselect-hypr-dotfiles/develop/ChangeLog</changelog>
+		<bugs-to>https://github.com/beatussum/eselect-hypr-dotfiles/issues/</bugs-to>
+		<remote-id type="github">beatussum/eselect-hypr-dotfiles</remote-id>
+	</upstream>
+</pkgmetadata>
