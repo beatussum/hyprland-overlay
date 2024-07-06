@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<upstream>
+		<maintainer status="active">
+			<name>Hummer12007</name>
+			<email>hilobakho@gmail.com</email>
+		</maintainer>
+		<bugs-to>https://github.com/Hummer12007/brightnessctl/issues/</bugs-to>
+		<remote-id type="github">Hummer12007/brightnessctl</remote-id>
+	</upstream>
+</pkgmetadata>
