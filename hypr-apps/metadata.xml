@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<catmetadata>
+	<longdescription>
+		The <cat>hypr-apps</cat> category contains packages related to
+		some applications for <pkg>gui-wm/hyprland</pkg>.
+	</longdescription>
+	<longdescription lang="fr">
+		La catégorie <cat>hypr-apps</cat> contient des paquets liés à
+		certaines applications pour <pkg>gui-wm/hyprland</pkg>.
+	</longdescription>
+</catmetadata>
