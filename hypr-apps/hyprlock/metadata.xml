@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<upstream>
+		<maintainer status="active">
+			<name>Hypr Development</name>
+		</maintainer>
+		<doc>https://wiki.hyprland.org/Hypr-Ecosystem/hyprlock/</doc>
+		<bugs-to>https://github.com/hyprwm/hyprlock/issues/</bugs-to>
+		<remote-id type="github">hyprwm/hyprlock</remote-id>
+	</upstream>
+</pkgmetadata>
