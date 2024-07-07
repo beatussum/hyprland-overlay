@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>gasc@eurecom.fr</email>
+		<name>Gasc Henri</name>
+	</maintainer>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<upstream>
+		<maintainer status="active">
+			<name>Senan Kelly</name>
+			<email>senan@senan.xyz</email>
+		</maintainer>
+		<changelog>https://raw.githubusercontent.com/sentriz/cliphist/v0.5.0/CHANGELOG.md</changelog>
+		<bugs-to>https://github.com/sentriz/cliphist/issues</bugs-to>
+		<remote-id type="github">sentriz/cliphist</remote-id>
+	</upstream>
+</pkgmetadata>
