@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<upstream>
+		<maintainer status="active">
+			<name>Haden Collins</name>
+			<email>collinshaden@gmail.com</email>
+		</maintainer>
+		<bugs-to>https://github.com/ArtsyMacaw/wlogout/issues/</bugs-to>
+		<remote-id type="github">ArtsyMacaw/wlogout</remote-id>
+	</upstream>
+</pkgmetadata>
