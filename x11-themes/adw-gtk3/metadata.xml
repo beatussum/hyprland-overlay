@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<use>
+		<flag name="dark">Enable dark mode</flag>
+	</use>
+	<use lang="fr">
+		<flag name="dark">Activer le mode sombre</flag>
+	</use>
+	<upstream>
+		<maintainer status="active">
+			<name>lassekongo83</name>
+		</maintainer>
+		<bugs-to>https://github.com/lassekongo83/adw-gtk3/issues/</bugs-to>
+		<remote-id type="github">lassekongo83/adw-gtk3</remote-id>
+	</upstream>
+</pkgmetadata>
