@@ -11,9 +11,9 @@ HOMEPAGE="https://github.com/hyprwm/hyprpicker"
 if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
-	EGIT_REPO_URI="https://github.com/hyprwm/${PN}.git"
+	EGIT_REPO_URI="https://github.com/hyprwm/hyprpicker.git"
 else
-	SRC_URI="https://github.com/hyprwm/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/hyprwm/hyprpicker/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="~amd64"
 fi
 

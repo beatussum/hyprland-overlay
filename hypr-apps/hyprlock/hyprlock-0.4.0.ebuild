@@ -5,17 +5,15 @@ EAPI=8
 
 inherit cmake
 
-MY_PN="${PN^}"
-
 DESCRIPTION="Hyprland's GPU-accelerated screen locking utility"
 HOMEPAGE="https://github.com/hyprwm/hyprlock"
 
 if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
-	EGIT_REPO_URI="https://github.com/hyprwm/${MY_PN}.git"
+	EGIT_REPO_URI="https://github.com/hyprwm/hyprlock.git"
 else
-	SRC_URI="https://github.com/hyprwm/${MY_PN}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
+	SRC_URI="https://github.com/hyprwm/hyprlock/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
 	KEYWORDS="~amd64"
 fi
 
