@@ -8,7 +8,7 @@ inherit meson
 DESCRIPTION="The theme from libadwaita ported to GTK-3"
 HOMEPAGE="https://github.com/lassekongo83/adw-gtk3"
 
-if [[ "${PV}" = *9999* ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
 	EGIT_REPO_URI="https://github.com/lassekongo83/adw-gtk3.git"

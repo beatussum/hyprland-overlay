@@ -10,7 +10,7 @@ MY_PN="${PN^}"
 DESCRIPTION="Hyprland's idle daemon"
 HOMEPAGE="https://github.com/hyprwm/hypridle"
 
-if [[ "${PV}" = *9999* ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
 	EGIT_REPO_URI="https://github.com/hyprwm/${MY_PN}.git"

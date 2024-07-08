@@ -11,7 +11,7 @@ inherit distutils-r1
 DESCRIPTION="Python port of material-color-utilities used for Material You colors"
 HOMEPAGE="https://github.com/avanisubbiah/material-color-utilities-python/"
 
-if [[ "${PV}" = *9999* ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
 	EGIT_REPO_URI="https://github.com/avanishsubbiah/material-color-utilities-python.git"

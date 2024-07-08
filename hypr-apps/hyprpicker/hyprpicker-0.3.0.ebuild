@@ -8,7 +8,7 @@ inherit cmake
 DESCRIPTION="A wlroots-compatible Wayland color picker that does not suck"
 HOMEPAGE="https://github.com/hyprwm/hyprpicker"
 
-if [[ "${PV}" = *9999* ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
 	EGIT_REPO_URI="https://github.com/hyprwm/${PN}.git"

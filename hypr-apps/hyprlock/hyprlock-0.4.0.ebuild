@@ -10,7 +10,7 @@ MY_PN="${PN^}"
 DESCRIPTION="Hyprland's GPU-accelerated screen locking utility"
 HOMEPAGE="https://github.com/hyprwm/hyprlock"
 
-if [[ "${PV}" = *9999* ]]; then
+if [[ "${PV}" = 9999 ]]; then
 	inherit git-r3
 
 	EGIT_REPO_URI="https://github.com/hyprwm/${MY_PN}.git"
