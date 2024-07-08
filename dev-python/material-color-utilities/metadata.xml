@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<upstream>
+		<maintainer status="active">
+			<name>Avanish Subbiah</name>
+			<email>avanishsubbiah1@gmail.com</email>
+		</maintainer>
+		<bugs-to>https://github.com/avanisubbiah/material-color-utilities-python/issues/</bugs-to>
+		<remote-id type="github">avanisubbiah/material-color-utilities-python</remote-id>
+		<remote-id type="pypi">material-color-utilities-python</remote-id>
+	</upstream>
+</pkgmetadata>
