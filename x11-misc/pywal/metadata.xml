@@ -56,7 +56,7 @@
 		mises à jour en temps réel, sans délai. Avec une configuration
 		minimale, cette fonctionnalité peut être étendue à presque tout
 		ce qui tourne sur votre système.
-	<Pywal>
+	</longdescription>
 	<upstream>
 		<maintainer status="inactive">
 			<name>Dylan Araps</name>
