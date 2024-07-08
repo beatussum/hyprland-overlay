@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<longdescription>
+		<pkg>x11-misc/pywal</pkg> is a tool that generates a color
+		palette from the dominant colors in an image. It then applies
+		the colors system-wide and on-the-fly in all of your favourite
+		programs.
+
+		There are currently 5 supported color generation backends, each
+		providing a different palette of colors from each image. You're
+		bound to find an appealing color-scheme.
+
+		<pkg>x11-misc/pywal</pkg> also supports predefined themes and
+		has over 250 themes built-in. You can also create your own theme
+		files to share with others.
+
+		The goal of <pkg>x11-misc/pywal</pkg> was to be as out of the
+		way as possible. It doesn't modify any of your existing
+		configuration files. Instead it works around them and provides
+		tools to integrate your system as you see fit.
+
+		Terminal emulators and TTYs have their color-schemes updated in
+		real-time with no delay. With minimal configuration this
+		functionality can be extended to almost anything running on your
+		system.
+	</longdescription>
+	<longdescription lang="fr">
+		<pkg>x11-misc/pywal</pkg> est un outil qui génère une palette de
+		couleurs à partir des couleurs dominantes d'une image. Il
+		applique ensuite les couleurs à l'ensemble du système et à la
+		volée dans tous vos programmes préférés.
+
+		Il existe actuellement 5 sources de génération de couleurs,
+		chacune fournissant une palette de couleurs différente à partir
+		de chaque image. Vous trouverez certainement une palette de
+		couleurs attrayante.
+
+		<pkg>x11-misc/pywal</pkg> prend également en charge des thèmes
+		prédéfinis et dispose de plus de 250 thèmes intégrés. Vous
+		pouvez également créer vos propres fichiers de thème et les
+		partager avec d'autres.
+
+		L'objectif de <pkg>x11-misc/pywal</pkg> était d'être aussi
+		discret que possible. Il ne modifie aucun de vos fichiers de
+		configuration existants. Au contraire, il les contourne et
+		fournit des outils pour intégrer votre système comme vous
+		l'entendez.
+
+		Les émulateurs de terminaux et les TTY voient leurs couleurs
+		mises à jour en temps réel, sans délai. Avec une configuration
+		minimale, cette fonctionnalité peut être étendue à presque tout
+		ce qui tourne sur votre système.
+	<Pywal>
+	<upstream>
+		<maintainer status="inactive">
+			<name>Dylan Araps</name>
+			<email>dylan.araps@gmail.com</email>
+		</maintainer>
+		<changelog>https://raw.githubusercontent.com/dylanaraps/pywal/master/CHANGELOG.md</changelog>
+		<doc>https://github.com/dylanaraps/pywal/wiki/</doc>
+		<bugs-to>https://github.com/dylanaraps/pywal/issues/</bugs-to>
+		<remote-id type="github">dylanaraps/pywal</remote-id>
+	</upstream>
+</pkgmetadata>
