@@ -10,7 +10,7 @@ LICENSE="GPL-3+"
 SLOT="0"
 KEYWORDS="~amd64"
 IUSE="test"
-RESTRICT="!test? ( test )"
+RESTRICT="binchecks strip !test? ( test )"
 
 DEPEND="app-admin/eselect"
 BDEPEND="test? ( >=dev-util/shellspec-0.28.1 )"

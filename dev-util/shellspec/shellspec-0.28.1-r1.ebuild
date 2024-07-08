@@ -10,7 +10,7 @@ LICENSE="MIT-with-advertising"
 SLOT="0"
 KEYWORDS="~amd64"
 IUSE="doc example test"
-RESTRICT="!test? ( test )"
+RESTRICT="binchecks strip !test? ( test )"
 
 DEPEND="
 	|| (

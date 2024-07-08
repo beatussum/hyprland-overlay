@@ -16,7 +16,7 @@ SRC_URI="
 LICENSE="GPL-3+"
 SLOT="0"
 KEYWORDS="~amd64"
-RESTRICT="test"
+RESTRICT="binchecks strip test"
 
 DEPEND="
 	dev-libs/gjs

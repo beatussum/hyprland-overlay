@@ -15,7 +15,7 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
 IUSE="test"
-RESTRICT="!test? ( test )"
+RESTRICT="binchecks strip !test? ( test )"
 
 BDEPEND="${PYTHON_DEPS}"
 
