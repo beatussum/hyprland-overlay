@@ -16,7 +16,7 @@ REQUIRED_USE="systemd? ( !udev )"
 RESTRICT="test"
 
 DEPEND="
-	sys-libs/glibc
+	virtual/libc
 	systemd? ( sys-apps/systemd )
 	udev? ( virtual/udev )
 "
