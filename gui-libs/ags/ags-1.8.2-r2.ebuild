@@ -35,9 +35,9 @@ DEPEND="
 	media-sound/mpg123-base
 	net-libs/libasyncns
 	sys-apps/dbus
-	sys-libs/glibc
 	sys-libs/pam
 	sys-libs/zlib
+	virtual/libc
 	x11-libs/gtk+:3
 	x11-libs/libXau
 	x11-libs/libxcb:=
