@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<upstream>
+		<maintainer status="active">
+			<name>Ryan L McIntyre</name>
+		</maintainer>
+		<changelog>https://github.com/ryanoasis/nerd-fonts/blob/master/changelog.md</changelog>
+		<doc>https://github.com/ryanoasis/nerd-fonts/wiki/</doc>
+		<bugs-to>https://github.com/ryanoasis/nerd-fonts/issues/</bugs-to>
+		<remote-id type="github">ryanoasis/nerd-fonts</remote-id>
+	</upstream>
+</pkgmetadata>
