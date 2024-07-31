@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<use>
+		<flag name="nanosvg">Use the built-in <pkg>media-libs/nanosvg</pkg> header as SVG backend</flag>
+	</use>
+	<use lang="fr">
+		<flag name="nanosvg">Utiliser l'entête embarqué <pkg>media-libs/nanosvg</pkg> comme SVG backend</flag>
+	</use>
+	<upstream>
+		<maintainer status="active">
+			<name>Daniel Eklöf</name>
+			<email>daniel@ekloef.se</email>
+		</maintainer>
+		<changelog>https://codeberg.org/dnkl/fuzzel/src/branch/master/CHANGELOG.md</changelog>
+		<bugs-to>https://codeberg.org/dnkl/fuzzel/issues/</bugs-to>
+		<remote-id type="codeberg">dnkl/fuzzel</remote-id>
+	</upstream>
+</pkgmetadata>
