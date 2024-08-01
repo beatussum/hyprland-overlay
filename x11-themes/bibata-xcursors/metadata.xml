@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<upstream>
+		<maintainer status="active">
+			<name>Abdulkaiz Khatri</name>
+		</maintainer>
+		<changelog>https://github.com/ful1e5/Bibata_Cursor/blob/main/CHANGELOG.md</changelog>
+		<bugs-to>https://github.com/ful1e5/Bibata_Cursor/issues/</bugs-to>
+		<remote-id type="github">ful1e5/Bibata_Cursor</remote-id>
+	</upstream>
+</pkgmetadata>
