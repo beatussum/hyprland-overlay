@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<upstream>
+		<maintainer status="active">
+			<name>Leonardo Gibrowski Faé</name>
+			<email>leonardo.fae44@gmail.com</email>
+		</maintainer>
+		<changelog>https://github.com/LGFae/swww/blob/main/CHANGELOG.md</changelog>
+		<bugs-to>https://github.com/LGFae/swww/issues/</bugs-to>
+		<remote-id type="github">LGFae/swww</remote-id>
+	</upstream>
+</pkgmetadata>
