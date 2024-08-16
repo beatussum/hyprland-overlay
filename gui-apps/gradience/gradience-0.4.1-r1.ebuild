@@ -16,7 +16,7 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE="test"
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
-RESTRICT="binchecks strip !test? ( test )"
+RESTRICT="!test? ( test )"
 
 DEPEND="
 	dev-libs/glib:2
@@ -40,7 +40,7 @@ BDEPEND="
 	)
 "
 
-REPEND="
+RDEPEND="
 	$(python_gen_cond_dep '
 		>=dev-python/anyascii-0.3[${PYTHON_USEDEP}]
 		dev-python/material-color-utilities[${PYTHON_USEDEP}]
