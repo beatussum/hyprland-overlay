@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<upstream>
+		<maintainer status="active">
+			<name>end-4</name>
+		</maintainer>
+		<doc>https://end-4.github.io/dots-hyprland-wiki/en/</doc>
+		<bugs-to>https://github.com/end-4/dots-hyprland/issues/</bugs-to>
+		<remote-id type="github">end-4/dots-hyprland</remote-id>
+	</upstream>
+</pkgmetadata>
