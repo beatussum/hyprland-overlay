@@ -43,7 +43,7 @@ BDEPEND="
 RDEPEND="
 	$(python_gen_cond_dep '
 		>=dev-python/anyascii-0.3[${PYTHON_USEDEP}]
-		dev-python/material-color-utilities[${PYTHON_USEDEP}]
+		dev-python/material-color-utilities-python[${PYTHON_USEDEP}]
 		dev-python/reportlab[${PYTHON_USEDEP}]
 		dev-python/svglib[${PYTHON_USEDEP}]
 		dev-python/yapsy[${PYTHON_USEDEP}]

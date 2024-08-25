@@ -17,7 +17,6 @@ if [[ "${PV}" = 9999 ]]; then
 	EGIT_REPO_URI="https://github.com/avanishsubbiah/material-color-utilities-python.git"
 else
 	PYPI_NO_NORMALIZE=true
-	PYPI_PN="${PN}-python"
 
 	inherit pypi
 
