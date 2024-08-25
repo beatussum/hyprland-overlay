@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>beatussum@protonmail.com</email>
+		<name>Mattéo Rossillol‑‑Laruelle</name>
+	</maintainer>
+	<stabilize-allarches/>
+	<upstream>
+		<maintainer status="active">
+			<name>Kuroe Hanako</name>
+		</maintainer>
+		<bugs-to>https://github.com/mjkim0727/OneUI4-Icons/issues/</bugs-to>
+		<remote-id type="github">mjkim0727/OneUI4-Icons</remote-id>
+	</upstream>
+</pkgmetadata>
